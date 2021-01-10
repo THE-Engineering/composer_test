@@ -1,0 +1,13 @@
+{
+    "name": "the/composer_test",
+    "description": "This is to test the package implementation of modules",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "stephen",
+            "email": "steohen.binkhorne@timeshighereducation.com"
+        }
+    ],
+    "require": {}
+}
