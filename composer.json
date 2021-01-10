@@ -1,5 +1,5 @@
 {
-    "name": "the/composer_test",
+    "name": "the_test/composer_test",
     "description": "This is to test the package implementation of modules",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
